@@ -39,7 +39,8 @@
       "format": "{volume}% {icon}",
       "format-icons": ["󰕿", "󰖀", "󰕾"],
       "format-muted": "{volume}% 󰖁",
-      "scroll-step": 5
+      "scroll-step": 5,
+      "max-volume": 200.0
     },
     "tray": {
     "icon-size": 21,
